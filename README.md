@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MaxAPBusiness
-- 👀 I’m interested in ... AI and Software Development.
-- 🌱 I’m currently learning ... Python, HTML, CSS, JS and SQL.
-- 💞️ I’m looking to collaborate on ... AI projects.
-- 📫 How to reach me ... mapellegrinobusiness@gmail.com
+Hello, I’m MaxAPBusiness.
+I am an argentinian junior programmer currently finishing studies in a programming-oriented middle school.
+I have knowledge in Python, Java, C#, C++ and web development (HTML, CSS, JS, Node.JS and hbs).
+I am interested in working in AI projects, Python/C#/C++ projects and web projects (backend).
+CONTACT INFO: Email: mapellegrinobusiness@gmail.com
 
 <!---
 MaxAPBusiness/MaxAPBusiness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
