@@ -2,6 +2,8 @@ Hello, I’m Maxap.
 
 I am an argentinian junior programmer currently finishing studies in a programming-oriented middle school.
 
+Knowledge
+
 Languages:
 - Python
 - Java
@@ -11,9 +13,20 @@ Languages:
 - CSS
 - JS
 - HBS
+- SQL
 
-Other tools:
+Backend tools:
 - Node.js
 - Express.js
+- Django
 
+Frameworks:
+- PyQt
+
+Videogame engines:
+- Unity
+
+Database engines:
+- SQLite
+- Oracle
 Not currently interested in any projects.
