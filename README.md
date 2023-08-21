@@ -1,6 +1,6 @@
 Hello, I’m Maxap.
 
-I am an argentinian junior programmer currently finishing studies in a programming-oriented middle school.
+I am an argentinian junior programmer currently finishing studies in a programming-oriented technical school.
 
 # Knowledge
 
