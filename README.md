@@ -10,13 +10,13 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 - C#
 - C++
 
-## Web Development Languages:
+## Front-End Web Development Languages:
 - HTML
 - CSS
 - JS
 - HBS
 
-## Backend tools:
+## Backend Tools:
 - Node.js
 - Express.js
 - Django
@@ -24,10 +24,10 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 ## Frameworks:
 - Qt
 
-## Videogame engines:
+## Videogame Engines:
 - Unity
 
-## Database managing (DBMS, Query Languages):
+## Database Managing (DBMS, Query Languages):
 - SQL
 - SQLite
 - Oracle
