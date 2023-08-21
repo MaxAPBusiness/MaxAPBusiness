@@ -21,7 +21,7 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 - Django
 
 ## Frameworks:
-- PyQt
+- Qt
 
 ## Videogame engines:
 - Unity
@@ -29,5 +29,3 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 ## Database engines:
 - SQLite
 - Oracle
-
-Not currently interested in any projects.
