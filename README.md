@@ -4,16 +4,17 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 
 # Knowledge
 
-## Languages:
+## Programming Languages:
 - Python
 - Java
 - C#
 - C++
+
+## Web Development Languages:
 - HTML
 - CSS
 - JS
 - HBS
-- SQL
 
 ## Backend tools:
 - Node.js
@@ -26,6 +27,7 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 ## Videogame engines:
 - Unity
 
-## Database engines:
+## Database managing (DBMS, Query Languages):
+- SQL
 - SQLite
 - Oracle
