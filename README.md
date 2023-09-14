@@ -23,7 +23,7 @@ I am an argentinian junior programmer currently finishing studies in a programmi
 - Express.js
 - Django
 
-## Frameworks:
+## Desktop App Frameworks:
 - Qt
 
 ## Videogame Engines:
